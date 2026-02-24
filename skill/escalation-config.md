@@ -1,5 +1,5 @@
 # TaxClaw Escalation Config — CPA Referral & Handoff
-# Last updated: 2026-02-20
+# Last updated: 2026-02-24
 
 ---
 
@@ -7,15 +7,17 @@
 
 ### Primary Referral Partner
 ```
-Firm name:       M.S.Ayubi CPA PLLC
-Contact name:    Aisha Moin, CPA
-Phone:           (832) 466-4385
-Email:           aisha@woodlandsquickbooks.com
-Website:         https://woodlandsqb.com/
-Booking link:    https://woodlandsqb.com/contact?ref=taxclaw2025
-Address:         1790 Hughes Landing Blvd Ste 400, The Woodlands, TX 77382
-Timezone:        US/Central
-Hours:           Mon–Fri 9am–5pm CT (extended hours Jan 15–Apr 15)
+Firm name:               M.S.Ayubi CPA PLLC
+Contact name:            Aisha Moin, CPA
+Phone:                   (832) 466-4385
+Email:                   aisha@woodlandsquickbooks.com
+Preferred contact:       Text (832) 466-4385 first, then email aisha@woodlandsquickbooks.com
+Website:                 https://woodlandsqb.com/
+Booking link:            https://woodlandsqb.com/contact?ref=taxclaw2025
+# TODO: Replace with Calendly link when available
+Address:                 1790 Hughes Landing Blvd, Building 2, Suite 400, The Woodlands, TX 77380
+Timezone:                US/Central
+Hours:                   Mon–Fri 9am–5pm CT (extended hours Jan 15–Apr 15)
 ```
 
 Note: Booking link will be updated to a Calendly URL when configured. Until then,
